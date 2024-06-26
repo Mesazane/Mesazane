@@ -34,7 +34,7 @@ Twitter: @_farfat.
 <h2 align="center"> 🔎 Knowledge 📖 </h2>
 </div>
 <div align = "center">
-<p align = "justify">I use C & C++ for now. I learned both of them in college. Nowdays, I focus on Computer Science. While I barely use HTML and CSS.My programming languages are C, C++, Bash, HTML, CSS, (Some) Python.I rarely use Github other than college stuff and looking at Open-Source Projects.<br></p>
+<p align = "justify">I use C & C++ for now. I learned both of them in college. Nowadays, I focus on Computer Science. While I barely use HTML and CSS.My programming languages are C, C++, Bash, HTML, CSS, and (Some) Python. I rarely use GitHub other than for college stuff and looking at Open-Source Projects.<br></p>
 <h2 align="center">  I Code In </h2>
 <p align = "center">
      <a href="https://skillicons.dev">
