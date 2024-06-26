@@ -26,7 +26,7 @@ Loves: Videogames 🎮, Techn stuff 🚀, Books 📚.
 Hobbies: Gaming, Tearing stuff down.
 Languages: C, C++, Python, some HTML and CSS.
 Learning: Computer Science.
-Insta: @_farfat.
+Twitter: @_farfat.
 ```
 <br>
      
