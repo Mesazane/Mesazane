@@ -43,7 +43,7 @@ Twitter: @_farfat.
     <h2 align="center">  Softwares and OS(es) I Use👨‍💻 </h2>
 <p align = "center">
      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=ubuntu,windows,vscode,pr,ps,discord,cmake,docker,figma,&perline=7"alt="Software and OS"/> 
+        <img src="https://skillicons.dev/icons?i=arch,windows,vscode,pr,ps,discord,cmake,docker,figma,&perline=7"alt="Software and OS"/> 
     </a>
 </p>
 </div>
